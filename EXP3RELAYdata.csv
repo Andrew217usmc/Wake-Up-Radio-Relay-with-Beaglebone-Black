@@ -1,0 +1,675 @@
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 3, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 22:15:54,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:16:24,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,43
+2020-03-29 22:16:54,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,45
+2020-03-29 22:17:24,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-74,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:17:54,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-75,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:18:24,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,43
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:18:54,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-81,42
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:19:24,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-78,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:19:54,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-78,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:20:24,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:20:54,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-79,45
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:21:24,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-80,42
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:21:54,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-77,44
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:22:54,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:23:23,15,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 3, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 29seconds
+2020-03-29 22:27:15,1,+RCV=1,62,Hello my name is Andrew. ThYs message is being sent oè rep¯at.,-70,19
+2020-03-29 22:27:45,2,+ERR=12
+2020-03-29 22:28:15,3,+ERR=12
+2020-03-29 22:28:45,4,+ERR=12
+2020-03-29 22:29:15,5,+ERR=12
+2020-03-29 22:29:45,6,+ERR=12
+2020-03-29 22:30:15,7,+ERR=12
+2020-03-29 22:30:45,8,+ERR=12
+2020-03-29 22:31:45,9,+ERR=12
+2020-03-29 22:32:15,10,+ERR=12
+2020-03-29 22:32:45,11,+ERR=12
+2020-03-29 22:33:15,12,+ERR=12
+2020-03-29 22:33:46,13,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 3, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 22:37:48,1,+ERR=12
+2020-03-29 22:38:48,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,38
+2020-03-29 22:39:48,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,38
+2020-03-29 22:41:48,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,35
+2020-03-29 22:42:48,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,47
+2020-03-29 22:43:48,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,45
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 5, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 22:46:52,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,34
+2020-03-29 22:47:22,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:47:52,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-74,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:48:22,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,44
+2020-03-29 22:49:22,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:49:52,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 22:50:22,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,47
+2020-03-29 22:50:52,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,49
+2020-03-29 22:51:22,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,49
+2020-03-29 22:51:52,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,47
+2020-03-29 22:52:22,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,46
+2020-03-29 22:52:52,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,49
+2020-03-29 22:53:22,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,47
+2020-03-29 22:53:52,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,48
+2020-03-29 22:54:21,15,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 5, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 22:57:43,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,39
+2020-03-29 22:58:13,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,40
+2020-03-29 22:58:43,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,41
+2020-03-29 22:59:13,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,41
+2020-03-29 23:01:43,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,42
+2020-03-29 23:02:13,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,40
+2020-03-29 23:02:43,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,39
+2020-03-29 23:03:43,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,39
+2020-03-29 23:04:13,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,43
+2020-03-29 23:04:44,10,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 5, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 23:08:09,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,38
+2020-03-29 23:08:39,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,40
+2020-03-29 23:09:09,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,38
+2020-03-29 23:09:39,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,46
+2020-03-29 23:10:09,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,56
+2020-03-29 23:10:40,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,56
+2020-03-29 23:11:10,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,50
+2020-03-29 23:11:40,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,56
+2020-03-29 23:12:10,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,59
+2020-03-29 23:12:40,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,49
+2020-03-29 23:13:10,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,48
+2020-03-29 23:13:40,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,47
+2020-03-29 23:14:10,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,54
+2020-03-29 23:14:40,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,45
+2020-03-29 23:15:08,15,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 7, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 23:18:51,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 23:19:21,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-74,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 23:19:51,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 23:20:21,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,48
+2020-03-29 23:20:51,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-29 23:21:21,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,48
+2020-03-29 23:21:51,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,49
+2020-03-29 23:22:21,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,48
+2020-03-29 23:22:51,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,49
+2020-03-29 23:23:51,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,48
+2020-03-29 23:24:21,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,49
+2020-03-29 23:24:51,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,49
+2020-03-29 23:25:31,13,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 7, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 23:29:12,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,45
+2020-03-29 23:29:42,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,52
+2020-03-29 23:30:42,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,56
+2020-03-29 23:31:12,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-65,40
+2020-03-29 23:31:42,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,42
+2020-03-29 23:32:12,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,50
+2020-03-29 23:32:42,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,54
+2020-03-29 23:33:12,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,54
+2020-03-29 23:34:12,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,54
+2020-03-29 23:34:42,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,54
+2020-03-29 23:35:12,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,54
+2020-03-29 23:35:55,12,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 7, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-29 23:39:04,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,40
+2020-03-29 23:39:34,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,37
+2020-03-29 23:40:34,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,42
+2020-03-29 23:41:04,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,37
+2020-03-29 23:41:34,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,37
+2020-03-29 23:42:04,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,43
+2020-03-29 23:42:34,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,41
+2020-03-29 23:43:04,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,37
+2020-03-29 23:43:34,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,41
+2020-03-29 23:44:04,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,39
+2020-03-29 23:45:04,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,41
+2020-03-29 23:45:34,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,41
+2020-03-29 23:46:18,13,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 9, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 9, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 9, CODING RATE: 1, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 3, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 00:20:23,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:21:53,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,48
+2020-03-30 00:22:23,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,45
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:22:53,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:23:23,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-72,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:23:53,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-71,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:24:23,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,44
+2020-03-30 00:24:53,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,45
+2020-03-30 00:25:23,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,46
+2020-03-30 00:25:53,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,45
+2020-03-30 00:26:23,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,44
+2020-03-30 00:26:53,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,43
+2020-03-30 00:27:21,13,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 3, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 29seconds
+2020-03-30 00:30:47,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,31
+2020-03-30 00:31:17,2,+ERR=12
+2020-03-30 00:31:47,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,28
+2020-03-30 00:32:17,4,+ERR=12
+2020-03-30 00:32:47,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,23
+2020-03-30 00:33:17,6,+ERR=12
+2020-03-30 00:33:47,7,+ERR=12
+2020-03-30 00:34:17,8,+ERR=12
+2020-03-30 00:34:47,9,+ERR=12
+2020-03-30 00:35:17,10,+ERR=12
+2020-03-30 00:35:47,11,+ERR=12
+2020-03-30 00:36:17,12,+ERR=12
+2020-03-30 00:36:47,13,+ERR=12
+2020-03-30 00:37:17,14,+ERR=12
+2020-03-30 00:37:44,15,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 3, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 29seconds
+2020-03-30 00:41:56,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,37
+2020-03-30 00:42:56,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,44
+2020-03-30 00:43:56,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,45
+2020-03-30 00:44:56,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,45
+2020-03-30 00:45:56,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,36
+2020-03-30 00:46:56,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,38
+2020-03-30 00:47:56,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,43
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 5, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 00:51:22,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,48
+2020-03-30 00:51:52,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,48
+2020-03-30 00:52:22,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,49
+2020-03-30 00:52:52,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,49
+2020-03-30 00:53:22,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,47
+2020-03-30 00:53:52,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,47
+2020-03-30 00:54:22,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,45
+2020-03-30 00:54:52,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-79,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 00:55:22,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,46
+2020-03-30 00:55:52,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,48
+2020-03-30 00:56:22,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,46
+2020-03-30 00:56:52,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,48
+2020-03-30 00:57:22,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,47
+2020-03-30 00:57:52,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,48
+2020-03-30 00:58:21,15,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 5, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 01:01:44,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,31
+2020-03-30 01:02:14,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,31
+2020-03-30 01:02:44,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,31
+2020-03-30 01:03:14,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,33
+2020-03-30 01:03:44,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,31
+2020-03-30 01:04:14,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,28
+2020-03-30 01:04:44,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,31
+2020-03-30 01:05:14,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,40
+2020-03-30 01:05:44,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,33
+2020-03-30 01:06:14,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,29
+2020-03-30 01:06:44,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,37
+2020-03-30 01:07:14,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,33
+2020-03-30 01:07:44,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,30
+2020-03-30 01:08:14,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,30
+2020-03-30 01:08:44,15,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 5, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 01:12:14,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,37
+2020-03-30 01:13:14,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,35
+2020-03-30 01:14:14,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-66,38
+2020-03-30 01:15:14,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,38
+2020-03-30 01:16:14,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,38
+2020-03-30 01:17:14,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,38
+2020-03-30 01:18:14,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,37
+2020-03-30 01:19:08,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 7, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 01:22:21,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,48
+2020-03-30 01:22:51,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,48
+2020-03-30 01:23:21,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,49
+2020-03-30 01:23:51,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,50
+2020-03-30 01:24:21,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,49
+2020-03-30 01:24:51,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,50
+2020-03-30 01:25:21,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,48
+2020-03-30 01:25:51,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-70,50
+2020-03-30 01:26:21,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,50
+2020-03-30 01:26:51,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,50
+2020-03-30 01:27:21,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,50
+2020-03-30 01:27:51,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,50
+2020-03-30 01:28:21,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,49
+2020-03-30 01:28:51,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,50
+2020-03-30 01:29:31,15,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 7, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 01:32:42,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,52
+2020-03-30 01:33:12,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,52
+2020-03-30 01:33:42,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,53
+2020-03-30 01:34:12,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,55
+2020-03-30 01:34:42,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,49
+2020-03-30 01:35:12,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,56
+2020-03-30 01:35:42,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,50
+2020-03-30 01:36:12,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,53
+2020-03-30 01:36:42,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,54
+2020-03-30 01:37:12,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,55
+2020-03-30 01:37:42,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,56
+2020-03-30 01:38:12,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,56
+2020-03-30 01:38:42,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,55
+2020-03-30 01:39:12,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,56
+2020-03-30 01:39:55,15,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 7, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 01:43:05,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,44
+2020-03-30 01:43:35,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,43
+2020-03-30 01:44:05,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,44
+2020-03-30 01:44:35,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,44
+2020-03-30 01:45:05,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,40
+2020-03-30 01:45:35,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,39
+2020-03-30 01:46:05,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,45
+2020-03-30 01:46:35,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,41
+2020-03-30 01:47:05,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,42
+2020-03-30 01:47:35,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-67,42
+2020-03-30 01:48:05,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,40
+2020-03-30 01:48:35,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,39
+2020-03-30 01:49:05,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-68,39
+2020-03-30 01:49:35,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-69,39
+2020-03-30 01:50:18,15,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 9, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 9, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 9, CODING RATE: 4, POWER: 15. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 3, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 02:24:22,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:24:52,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:25:22,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:25:52,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:26:22,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:26:52,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:27:22,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:27:52,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:29:22,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-86,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:29:52,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:30:22,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:30:52,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:31:21,13,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 3, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 02:34:45,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-86,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:35:45,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,33
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:36:45,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:38:15,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:39:15,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-86,34
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:40:15,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:41:15,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,35
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:41:45,8,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 3, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 02:45:18,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,44
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:46:18,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,40
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:47:18,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,33
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:48:18,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:49:18,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,35
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:50:18,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,34
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:51:18,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,31
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:52:09,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 5, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 02:59:22,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 02:59:52,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:00:52,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:01:52,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:02:32,5,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 5, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 03:05:43,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:06:13,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:07:13,3,+ERR=12
+2020-03-30 03:07:43,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:08:13,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:08:43,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:09:43,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:10:13,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:10:43,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:11:13,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:11:43,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:12:13,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:12:56,13,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 5, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 03:16:09,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,32
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:17:09,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,32
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:18:09,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,35
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:19:09,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,35
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:20:10,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,33
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:21:10,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:22:10,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,34
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:23:19,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 7, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 03:26:51,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:27:21,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:27:51,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:29:21,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:29:51,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:30:21,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:30:51,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:31:21,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:31:51,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:33:43,10,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 7, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 03:36:42,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:37:12,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,55
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:37:42,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:38:42,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:39:12,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,57
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:39:42,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,57
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:40:12,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,57
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:40:42,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:41:12,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,55
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:41:42,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,57
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:42:12,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,55
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:42:42,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:43:12,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,56
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:44:06,14,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 7, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 03:47:04,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,53
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:47:34,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:48:04,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:48:34,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:49:04,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-81,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:49:34,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:50:04,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:50:34,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:51:04,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:51:34,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:52:04,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:52:34,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:53:04,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,54
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:53:34,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,55
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 03:54:29,15,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 9, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 9, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 9, CODING RATE: 1, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 3, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 04:28:53,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:29:23,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,39
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:30:23,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:30:53,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:31:23,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:32:23,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:32:53,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:33:23,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:33:53,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:34:53,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:35:22,11,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 3, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 04:38:47,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,34
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:39:47,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,33
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:40:47,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:41:47,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,34
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:42:47,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,33
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:43:47,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,39
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:44:47,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,32
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:45:45,8,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 3, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 04:49:26,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,38
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:50:26,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:51:26,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:52:26,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:53:26,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,44
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:54:26,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:55:26,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-85,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:56:09,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 5, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 04:59:22,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 04:59:52,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:00:22,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:00:52,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:01:52,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:02:22,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:03:52,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:04:22,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:04:52,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:05:22,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:06:33,11,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 5, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 05:09:44,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:11:14,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:11:44,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:12:14,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:12:44,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:13:14,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:13:44,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:14:14,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:14:44,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:15:14,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:16:14,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:16:56,12,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 5, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 05:20:14,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:21:14,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,36
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:22:14,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,39
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:23:14,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:24:14,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:25:14,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,37
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:26:14,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-82,38
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:27:19,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 7, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 05:30:21,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:30:51,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:31:21,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:31:51,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:32:21,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:32:51,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:33:21,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:34:51,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:35:21,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:35:51,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:36:21,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,49
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:36:51,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,44
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:37:43,13,NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 7, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 05:40:42,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,43
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:41:12,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:41:42,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:42:12,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:42:42,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:43:12,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:43:42,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:44:12,8,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,53
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:44:42,9,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:45:12,10,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,54
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:45:42,11,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,54
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:46:12,12,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:46:42,13,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-84,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:47:12,14,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,47
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:48:07,15,NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 7, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 30seconds
+2020-03-30 05:51:05,1,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,46
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:52:05,2,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:53:05,3,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,51
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:54:05,4,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:55:05,5,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,50
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:56:05,6,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,52
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:57:05,7,+RCV=1,62,Hello my name is Andrew. This message is being sent on repeat.,-83,48
+Message retransmitted at 15 dBm. RSSI below -70 dBm.
+2020-03-30 05:58:30,8,NEW PARAMETERS,Spread Factor: 8, BANDWIDTH: 9, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 10, BANDWIDTH: 9, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
+NEW PARAMETERS,Spread Factor: 12, BANDWIDTH: 9, CODING RATE: 4, POWER: 0. This power maintained at 15 dBm.
+Established transmission interval: 2seconds
